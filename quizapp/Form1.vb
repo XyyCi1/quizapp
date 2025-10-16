@@ -51,6 +51,7 @@ Public Class Form1
         rbD.Checked = False
     End Sub
 
+
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         LoadQuestion()
     End Sub
